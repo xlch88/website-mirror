@@ -10,3 +10,10 @@
 -   断点续传
 -   支持将不同的 url 参数单独保存为一个页面
 
+# 怎么用？
+
+重命名 `config.example.js` 为 `config.js`，并修改里面的配置以符合你的要求。
+
+然后执行 `node index.js`
+
+结果会输出到 `dist` 目录，源文件会保存到 `dist/_raw` 目录。
