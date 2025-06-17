@@ -1,0 +1,10 @@
+{
+	"type": "module",
+	"devDependencies": {
+		"axios": "^1.10.0"
+	},
+	"dependencies": {
+		"fs-extra": "^11.3.0",
+		"puppeteer": "^24.10.0"
+	}
+}
